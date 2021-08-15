@@ -1,5 +1,5 @@
 package one.digitalinnovation.digionebank
 
-abstract interface Logavel {
+interface Logavel {
     fun login(): Boolean
 }
